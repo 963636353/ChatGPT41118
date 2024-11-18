@@ -8,10 +8,10 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: isApp
-      ? ? `😆😆 对话遇到了一些问题，不用慌:
+      ? `😆😆 对话遇到了一些问题，不用慌:
        \\ 1️⃣ 获取秘钥，[点击这里 🚀](https://shop443800899.taobao.com/){:target="_blank"}`
       : `😆😆 对话遇到了一些问题，不用慌:
-       \\ 1️⃣ 获取秘钥，[点击这里 🚀](https://shop443800899.taobao.com/){:target="_blank"}`,
+       \ 1️⃣ 获取秘钥，[点击这里 🚀](https://shop443800899.taobao.com/){:target="_blank"}`,
   },
   Auth: {
     Return: "返回",
