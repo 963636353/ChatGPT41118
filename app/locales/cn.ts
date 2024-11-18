@@ -9,9 +9,9 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? `😆 对话遇到了一些问题，不用慌:
-       \\ 1️⃣ 获取秘钥，[点击这里 🚀](/#https://shop443800899.taobao.com/)`
+       \\ 1️⃣ 获取秘钥，[点击这里 🚀](/#/https://shop443800899.taobao.com/)`
       : `😆 对话遇到了一些问题，不用慌:
-       \ 1️⃣ 获取秘钥，[点击这里 🚀](/#https://shop443800899.taobao.com/)
+       \ 1️⃣ 获取秘钥，[点击这里 🚀](/#/https://shop443800899.taobao.com/)
        `,
   },
   Auth: {
