@@ -9,10 +9,9 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? `😆 对话遇到了一些问题，不用慌:
-       \\ 1️⃣ 获取秘钥，[点击这里 🚀](/#/https://shop443800899.taobao.com/)`
+       \\ 1️⃣ 获取秘钥，<a href="https://shop443800899.taobao.com/" target="_blank">点击这里 🚀</a>`
       : `😆 对话遇到了一些问题，不用慌:
-       \ 1️⃣ 获取秘钥，[点击这里 🚀](/#/https://shop443800899.taobao.com/)
-       `,
+       \\ 1️⃣ 获取秘钥，<a href="https://shop443800899.taobao.com/" target="_blank">点击这里 🚀</a>`,
   },
   Auth: {
     Return: "返回",
@@ -306,14 +305,6 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
 
-    Access: {
-      SaasStart: {
-        Title: "使用 NextChat AI",
-        Label: "（性价比最高的方案）",
-        SubTitle:
-          "由 NextChat 官方维护, 零配置开箱即用，支持 OpenAI o1, GPT-4o, Claude-3.5 等最新大模型",
-        ChatNow: "立刻对话",
-      },
       AccessCode: {
         Title: "访问密码",
         SubTitle: "管理员已开启加密访问",
