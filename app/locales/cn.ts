@@ -310,9 +310,8 @@ const cn = {
       SaasStart: {
         Title: "",
         Label: "",
-        SubTitle:
-          "",
-        ChatNow: "",
+        SubTitle:"",
+        
       },
       AccessCode: {
         Title: "访问密码",
